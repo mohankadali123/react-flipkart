@@ -15,6 +15,7 @@ function App() {
         <div className='col-md-12'>
             <Catogiries/>
         </div>
+        
         <div className='col-md-12 m-3'>
           <Carosel/>
         </div>
